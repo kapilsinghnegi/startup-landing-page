@@ -1,1 +1,1 @@
-# startup-landing-pagex
+# startup-landing-page
